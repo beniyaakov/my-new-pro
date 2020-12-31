@@ -1,0 +1,31 @@
+
+body{
+    direction: rtl;
+}
+
+.sticky{
+    position: sticky;
+    background-color: rgb(72, 146, 130);
+    padding: 20 px;
+    font-size: 50;
+    top: 0;
+    position: fixed;
+    width: 100%    
+}
+
+.i img{
+position: sticky;
+position: fixed;
+border-radius: 50%;
+box-shadow: 20px 10px 20px;
+height: 7%;
+
+}
+footer
+{
+    position: sticky;
+    
+    bottom: 0;
+}
+
+
